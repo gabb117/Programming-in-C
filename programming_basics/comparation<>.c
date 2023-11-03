@@ -1,3 +1,11 @@
+/*
+
+ * comparation<>C.c
+ *
+ *  Created on: 2 nov 2023
+ *      Author: gabrielesagnelli
+ */
+
 #include<stdio.h>
 
 int main (void) {
