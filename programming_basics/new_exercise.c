@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-//somme di due valori inseriti e indica se ogni valore è pari o dispari
+//sums of two entered values ​​and indicates whether each value is even or odd
 
 int main (void) {
 
